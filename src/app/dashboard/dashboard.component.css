@@ -1,0 +1,89 @@
+.top {
+  width: 1276px;
+  height: 324px;
+  background-image: url("/assets/img/tem.jpg");
+  background-size: cover;
+}
+
+.title {
+  width: 1276px;
+  height: 125px;
+  background-color: #9AB197;
+}
+
+.ys {
+  margin:0px;
+  text-align: center;
+  font-size: 74px;
+  padding-top: 24px;
+  color: white;
+}
+
+
+.body {
+  width: 1276px;
+  height: 299px;
+  background-color: #72938A;
+}
+
+.floating-box {
+    display: inline-block;
+    width: 150px;
+    height: 75px;
+    margin: 10px;
+        margin-left: 117px;
+    border: 3px solid #73AD21;
+}
+.floating-box1 {
+    display: inline-block;
+    width: 150px;
+    height: 75px;
+    margin: 10px;
+    margin-left: 347px;
+    margin-bottom: 79px;
+    border: 3px solid #73AD21;
+}
+
+.top2 {
+  width: 1276px;
+  height: 264px;
+  background-color: red;
+}
+
+.title2 {
+  width: 1276px;
+  height: 125px;
+  background-color: #9AB197;
+}
+
+
+.body2 {
+  width: 1276px;
+  height: 299px;
+  background-color: #72938A;
+}
+
+.floating-box {
+    display: inline-block;
+    width: 150px;
+    height: 75px;
+    margin: 10px;
+        margin-left: 117px;
+    border: 3px solid #73AD21;
+}
+.floating-box1 {
+    display: inline-block;
+    width: 150px;
+    height: 75px;
+    margin: 10px;
+    margin-left: 347px;
+    margin-bottom: 79px;
+    border: 3px solid #73AD21;
+}
+.yl {
+  margin:0px;
+  text-align: center;
+  font-size: 74px;
+  padding-top: 24px;
+  color: white;
+}
