@@ -5,12 +5,12 @@ export const environment = {
 
 // in agular
 
-// add fileupload module into imports
+
 
 // ng build -prod --aot
 // we will move all the dif into express public
 
-// add fileupload module into imports 
+// add fileupload module into imports
 // take everything from dis into express app public folder
 // git add/commit since heroku takes it from commits
 // in express, index js delete stuff inbetween the functions
