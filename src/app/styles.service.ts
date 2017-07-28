@@ -5,7 +5,7 @@ import {environment } from 'environments/environment';
 
 @Injectable()
 export class StylesService {
-BASE_URL: string = 'environment.apiBase';
+BASE_URL: string = environment.apiBase;
   constructor(private http: Http) { }
 
   getList() {

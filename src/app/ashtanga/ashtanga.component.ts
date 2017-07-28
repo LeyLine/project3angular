@@ -17,6 +17,7 @@ styles;
     this.style.getList()
     .subscribe((styles) => {
       this.styles = styles;
+      console.log(styles);
     })
   }
 

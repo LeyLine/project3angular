@@ -1,0 +1,104 @@
+/*Top Title Element*/
+.topper
+        {
+           background-image: url("/assets/img/ash.jpg");
+           background-size: cover;
+           height: 324px;
+         }
+
+/*Top Title Font*/
+p.tt {
+       font-size: 129px;
+       font-family: 'Josefin Sans', sans-serif;
+       font-weight: normal;
+       color: white;
+     }
+
+  /*Ashtanga at a glance*/
+
+.aag  {
+    height: 191px;
+    background-color: #9ab197;
+  }
+
+  /*List Header*/
+p.aagh {
+        color:white;
+        font-weight: normal;
+        font-size: 37px;
+        margin-left: 47px;
+       }
+
+/*List <li>*/
+.aagl  {
+         color: white;
+         margin-left: 146px;
+         font-size: 20px;
+         display: inline-block;
+       }
+
+.aaglt {
+  color: white;
+margin-left: 497px;
+font-size: 20px;
+display: inline-block;
+        }
+
+  p.aaght {
+    color: white;
+font-weight: normal;
+font-size: 37px;
+margin-left: 47px;
+position: absolute;
+top: 329px;
+right: 28px;
+               }
+
+               .bodyh {
+                 width: 1276px;
+                 height: 1689px;
+                 background-color: #72938A;
+               }
+
+p.hist {
+  color: white;
+font-family: 'Josefin Sans', sans-serif;
+font-size: 77px;
+margin-left: 452px;
+padding-top: 44px;
+font-weight: normal;}
+
+p.His {
+  color:white;
+  font-family: 'Josefin Sans', sans-serif;
+font-weight: normal;
+width: 889px;
+    margin-left: 199px;
+    margin-top: 37px;
+
+}
+
+.chart {
+  margin-left: 340px;
+  margin-top: 50px;
+
+
+}
+
+.adv{
+  color: white;
+font-family: 'Josefin Sans', sans-serif;
+font-size: 77px;
+margin-left: 345px;
+padding-top: 44px;
+font-weight: normal;}
+
+.adv2 {
+  color:white;
+  font-family: 'Josefin Sans', sans-serif;
+font-weight: normal;
+width: 889px;
+    margin-left: 199px;
+    margin-top: 37px;
+
+}
